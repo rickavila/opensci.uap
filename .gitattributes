@@ -6,3 +6,4 @@ UAPVideoDataFiles/UAPVideo1-0ct2026/UAP6/IMG_3815.mov filter=lfs diff=lfs merge=
 UAPVideoDataFiles/UAPVideo1-0ct2026/UAP6/IMG_3826.MOV filter=lfs diff=lfs merge=lfs -text
 UAPVideoDataFiles/UAPVideo1-0ct2026/UAP6/IMG_5082.MOV filter=lfs diff=lfs merge=lfs -text
 *.MOV filter=lfs diff=lfs merge=lfs -text
+*.MP4 filter=lfs diff=lfs merge=lfs -text
