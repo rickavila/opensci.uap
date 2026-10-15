@@ -1,1 +1,8 @@
+UAPVideoDataFiles/UAPVideo1-0ct2026/UAP1/IMG_7199.MOV filter=lfs diff=lfs merge=lfs -text
+UAPVideoDataFiles/UAPVide01-Oct2026/UAP2/2025_0119_131428_378.MP4 filter=lfs diff=lfs merge=lfs -text
+UAPVideoDataFiles/UAPVide01-0ct2026/UAP2/UAPsFinalmp4.mp4 filter=lfs diff=lfs merge=lfs -text
+UAPVideoDataFiles/UAPVideo1-0ct2026/UAP3/IMG_1913.MOV filter=lfs diff=lfs merge=lfs -text
+UAPVideoDataFiles/UAPVideo1-0ct2026/UAP6/IMG_3815.mov filter=lfs diff=lfs merge=lfs -text
+UAPVideoDataFiles/UAPVideo1-0ct2026/UAP6/IMG_3826.MOV filter=lfs diff=lfs merge=lfs -text
+UAPVideoDataFiles/UAPVideo1-0ct2026/UAP6/IMG_5082.MOV filter=lfs diff=lfs merge=lfs -text
 *.MOV filter=lfs diff=lfs merge=lfs -text
